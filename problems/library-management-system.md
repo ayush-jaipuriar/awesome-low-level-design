@@ -12,6 +12,7 @@ The LMS supports:
 4. **Search Functionality:** Enable searching for books.
 
 ## Core Use Cases
+
 - **Adding Books:** Librarians can add new books to the system.
 - **Registering Members:** Register new library members.
 - **Lending Books:** Check out books to members.
